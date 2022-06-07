@@ -3,7 +3,7 @@
 <h3> Crie uma aplicação web em React. Utilizando: </h3>
 
 - Gerenciamento global de estado utilizando Context 
-- UI Kit
+- UI = Ant Design
 - 2 páginas
 - react-router
 
