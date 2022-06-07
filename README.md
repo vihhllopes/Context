@@ -1,4 +1,4 @@
-<h1>Projeto Individual</h1>
+<h1>Projeto Individual- Fronted Unicap</h1>
 
 <h3> Crie uma aplicação web em React. Utilizando: </h3>
 
