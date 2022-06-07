@@ -1,0 +1,41 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  float: left;
+  width: 45px;
+  height: 41px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+[data-theme="wight"] .site-layout .site-layout-background {
+  background: #141414;
+}
+.name{
+    font-size: 280%;
+    text-align: center;
+   
+}
+.infor{
+    font-size: 170%;
+}
+.container-Objet{
+    font-size: 200%;
+}
+.option{
+    font-size: 130%;
+    margin-block-end: 5%;
+}
+Button{
+  margin-left: 440px;
+  margin-top: 20px;
+  width: 300px;
+  color:#9c7e7e;
+}
+.welcome{
+   font-size: 400%;
+    text-align: center;
+   margin-top: 40px;
+}
