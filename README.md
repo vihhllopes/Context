@@ -2,7 +2,7 @@
 
 <h3> Crie uma aplicação web em React. Utilizando: </h3>
 
-- Gerenciamento global de estado utilizando Context API ou zustand
+- Gerenciamento global de estado utilizando Context 
 - UI Kit
 - 2 páginas
 - react-router
